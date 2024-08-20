@@ -1,6 +1,5 @@
 
  Git and GitHub Questions:
-
 Describe the steps required to install Git on a Windows machine. What key options should you pay attention to during installation, and why?
 
 1. Download Git
